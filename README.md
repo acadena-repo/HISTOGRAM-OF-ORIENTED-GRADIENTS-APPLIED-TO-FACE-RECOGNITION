@@ -1,4 +1,4 @@
-# FACE DETECTION WITH HISTOGRAM-OF-ORIENTED-GRADIENTS
+# Face Recognition with Histogram-of-Oriented-Gradients
 
 ## Description:
 
